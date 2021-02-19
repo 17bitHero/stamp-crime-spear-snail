@@ -1,0 +1,4 @@
+Bandana Waddle Dee - gameboy09
+	https://www.spriters-resource.com/custom_edited/kirbycustoms/sheet/49583/
+playerControl script: jumping and a few movement design choices
+	https://medium.com/@zacharybuffone/2d-platformer-movement-in-unity-9112995412bf
