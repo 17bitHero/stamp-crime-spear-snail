@@ -1,0 +1,3696 @@
+fileFormatVersion: 2
+guid: 40a1ea321c0f23047b8bd2acd1801db1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4293551060294063859
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_0
+  - first:
+      213: -2218950971561416374
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_1
+  - first:
+      213: 7644843540838584128
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_2
+  - first:
+      213: -7209980657051387466
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_3
+  - first:
+      213: 4232712019006437651
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_4
+  - first:
+      213: 4611747283036890145
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_5
+  - first:
+      213: -8635828084185283736
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_6
+  - first:
+      213: -3132605372076436342
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_7
+  - first:
+      213: 6004340146753102310
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_8
+  - first:
+      213: -6096545185330377380
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_9
+  - first:
+      213: -746693021801650592
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_10
+  - first:
+      213: -4299433894759903010
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_11
+  - first:
+      213: 7810344716038111474
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_12
+  - first:
+      213: -5938951072452370260
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_13
+  - first:
+      213: -6759389471354689884
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_14
+  - first:
+      213: -419101801396461931
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_15
+  - first:
+      213: -5916002402926076127
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_16
+  - first:
+      213: 2957213267453322865
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_17
+  - first:
+      213: 1228376513389559341
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_18
+  - first:
+      213: 825373538285155303
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_19
+  - first:
+      213: -359894553322860663
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_20
+  - first:
+      213: -1865096027639239211
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_21
+  - first:
+      213: -4973105750053542280
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_22
+  - first:
+      213: -6685673221003997988
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_23
+  - first:
+      213: -7772440126820572594
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_24
+  - first:
+      213: 7370845831578480277
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_25
+  - first:
+      213: -5938516425745801597
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_26
+  - first:
+      213: -2543309714493355460
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_27
+  - first:
+      213: 7195963283258989682
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_28
+  - first:
+      213: 9058697374911061259
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_29
+  - first:
+      213: 987779037298898391
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_30
+  - first:
+      213: 1706182658767020954
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_31
+  - first:
+      213: -8368365345065409400
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_32
+  - first:
+      213: -867953464826662613
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_33
+  - first:
+      213: -1492361170519873069
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_34
+  - first:
+      213: -6139784722254548977
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_35
+  - first:
+      213: -2392625924734573061
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_36
+  - first:
+      213: -3000481362090622410
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_37
+  - first:
+      213: -2878289477022358707
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_38
+  - first:
+      213: -8894478156784266851
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_39
+  - first:
+      213: 4668008245806639974
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_40
+  - first:
+      213: 8945735745986675496
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_41
+  - first:
+      213: -4590429566264571660
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_42
+  - first:
+      213: -278439242325683830
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_43
+  - first:
+      213: -5631021934629956631
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_44
+  - first:
+      213: -4655290163170853319
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_45
+  - first:
+      213: -7068287117716115978
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_46
+  - first:
+      213: -8879794214569187182
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_47
+  - first:
+      213: 247341229323096872
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_48
+  - first:
+      213: 7136025271339736153
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_49
+  - first:
+      213: -2343412586364116210
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_50
+  - first:
+      213: -4539360789938295115
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_51
+  - first:
+      213: -2435234258819401476
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_52
+  - first:
+      213: 1837010025229304104
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_53
+  - first:
+      213: -3750260210333761438
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_54
+  - first:
+      213: 5302214957815557841
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_55
+  - first:
+      213: -1116315914865209552
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_56
+  - first:
+      213: -3983820620431896103
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_57
+  - first:
+      213: -1359655790089605263
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_58
+  - first:
+      213: -8082648826636199443
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_59
+  - first:
+      213: 3601122569631429528
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_60
+  - first:
+      213: -6734889748412228126
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_61
+  - first:
+      213: -7223369256813328531
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_62
+  - first:
+      213: 361936346924939373
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_63
+  - first:
+      213: -8584993580905410090
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_64
+  - first:
+      213: -6479232806554704875
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_65
+  - first:
+      213: -2775880376294038581
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_66
+  - first:
+      213: -7135427012894438714
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_67
+  - first:
+      213: -5833235716616594909
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_68
+  - first:
+      213: 7453090093419715317
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_69
+  - first:
+      213: 762480421214267633
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_70
+  - first:
+      213: -7845972590743796738
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_71
+  - first:
+      213: -8081688143784742457
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_72
+  - first:
+      213: -3534957898391051808
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_73
+  - first:
+      213: -1199436790872503911
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_74
+  - first:
+      213: 5180143286600436984
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_75
+  - first:
+      213: -5102512292063091684
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_76
+  - first:
+      213: 525384739845594758
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_77
+  - first:
+      213: 8382100281926779971
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_78
+  - first:
+      213: -1297100728736228667
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_79
+  - first:
+      213: -1763829605890008691
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_80
+  - first:
+      213: -2424073673468664873
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_81
+  - first:
+      213: 4907201636181866954
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_82
+  - first:
+      213: -5791286062599767641
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_83
+  - first:
+      213: -6878290403460815489
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_84
+  - first:
+      213: -842872253003494356
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_85
+  - first:
+      213: 8560187744797074874
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_86
+  - first:
+      213: 5078029125252860707
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_87
+  - first:
+      213: 6460377659049127614
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_88
+  - first:
+      213: -101828533012547521
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_89
+  - first:
+      213: 658997909739408561
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_90
+  - first:
+      213: -5837425859075965118
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_91
+  - first:
+      213: -1799650062530575620
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_92
+  - first:
+      213: -2473027273843637737
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_93
+  - first:
+      213: 6598742572919106802
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_94
+  - first:
+      213: -6051547206304153303
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_95
+  - first:
+      213: 3167492504233183664
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_96
+  - first:
+      213: 8312187877926778261
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_97
+  - first:
+      213: -8236053519986357764
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_98
+  - first:
+      213: -8625235453598872559
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_99
+  - first:
+      213: 2478547137470720616
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_100
+  - first:
+      213: -3704809555528795682
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_101
+  - first:
+      213: 8974584238449472527
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_102
+  - first:
+      213: -8106860432208127810
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_103
+  - first:
+      213: -7681685939689383817
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_104
+  - first:
+      213: -2558927925273920377
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_105
+  - first:
+      213: -1157862521353083954
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_106
+  - first:
+      213: -8559864216517655474
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_107
+  - first:
+      213: -5248458342052280460
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_108
+  - first:
+      213: 3860297009261197703
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_109
+  - first:
+      213: -7881393944165242853
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_110
+  - first:
+      213: -7517943731277514809
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_111
+  - first:
+      213: 8290155262557180678
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_112
+  - first:
+      213: -2375547043693088944
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_113
+  - first:
+      213: -6491695710353241305
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_114
+  - first:
+      213: 2261610868147584623
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_115
+  - first:
+      213: 1757084928678440839
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_116
+  - first:
+      213: 1466721075173363193
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_117
+  - first:
+      213: -1576805640638320002
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_118
+  - first:
+      213: 5687665630183849641
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_119
+  - first:
+      213: 8880492839288133094
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_120
+  - first:
+      213: 1115141904448785926
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_121
+  - first:
+      213: -3507354952811027084
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_122
+  - first:
+      213: -1994997778461566083
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_123
+  - first:
+      213: 8499431998891230925
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_124
+  - first:
+      213: 482640253459113437
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_125
+  - first:
+      213: 8250146521526128474
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_126
+  - first:
+      213: -5213541027457209093
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_127
+  - first:
+      213: 6818914519735864737
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_128
+  - first:
+      213: 6853723235905267970
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_129
+  - first:
+      213: 7102108292127689691
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_130
+  - first:
+      213: -7069833372318524029
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_131
+  - first:
+      213: -149889716825802085
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_132
+  - first:
+      213: -1041925229698032348
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_133
+  - first:
+      213: 9174324574358925036
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_134
+  - first:
+      213: 2072646110547517239
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_135
+  - first:
+      213: 603305475755571752
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_136
+  - first:
+      213: -2485408864501499120
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_137
+  - first:
+      213: 2516436731894115131
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_138
+  - first:
+      213: -8139155799672979785
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_139
+  - first:
+      213: -2952204993937513776
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_140
+  - first:
+      213: 8787209611658249193
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_141
+  - first:
+      213: 1451758547168157280
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_142
+  - first:
+      213: -4720602960298237768
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_143
+  - first:
+      213: 799669802632834336
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_144
+  - first:
+      213: 5626125148420821398
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_145
+  - first:
+      213: 6141897223687304149
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_146
+  - first:
+      213: 4230901463879190104
+    second: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_147
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 212
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f654dde0f1c59b30800000000000000
+      internalID: 4293551060294063859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 212
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49e21e09d3b431e0800000000000000
+      internalID: -2218950971561416374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 212
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f8f1f32b0f71a60800000000000000
+      internalID: 7644843540838584128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 212
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9b303eac001fb90800000000000000
+      internalID: -7209980657051387466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 212
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b769c72d9dba30800000000000000
+      internalID: 4232712019006437651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 187
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124694748b7300040800000000000000
+      internalID: 4611747283036890145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 212
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8634bccac10672880800000000000000
+      internalID: -8635828084185283736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 212
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8457e7e200c684d0800000000000000
+      internalID: -3132605372076436342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 208
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e5d51d83b35350800000000000000
+      internalID: 6004340146753102310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 208
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dc34f6478b46ba0800000000000000
+      internalID: -6096545185330377380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 187
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066ef3f17a633a5f0800000000000000
+      internalID: -746693021801650592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0df8fe6a75554c0800000000000000
+      internalID: -4299433894759903010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 187
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f00dc4632be36c60800000000000000
+      internalID: 7810344716038111474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02d0c277b949da0800000000000000
+      internalID: -5938951072452370260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 203
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6636da613d132a0800000000000000
+      internalID: -6759389471354689884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e9903d12d0f2af0800000000000000
+      internalID: -419101801396461931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fdb3ba82326eda0800000000000000
+      internalID: -5916002402926076127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a0ab7cc12a0920800000000000000
+      internalID: 2957213267453322865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e74034ee11c0110800000000000000
+      internalID: 1228376513389559341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 183
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e37e7c2cd0547b00800000000000000
+      internalID: 825373538285155303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 183
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc7908fc5610bf0800000000000000
+      internalID: -359894553322860663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 187
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd22986b09dd16e0800000000000000
+      internalID: -1865096027639239211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 187
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8762b914baafbfab0800000000000000
+      internalID: -4973105750053542280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 186
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc07b1b0a7b733a0800000000000000
+      internalID: -6685673221003997988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 186
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e422ed282eeb22490800000000000000
+      internalID: -7772440126820572594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 186
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e676d3b318a4660800000000000000
+      internalID: 7370845831578480277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e599e36c6269da0800000000000000
+      internalID: -5938516425745801597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ac2d92a4954bcd0800000000000000
+      internalID: -2543309714493355460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd763fa723dd360800000000000000
+      internalID: 7195963283258989682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d56577445f6bd70800000000000000
+      internalID: 9058697374911061259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d537ca0dcb45bd00800000000000000
+      internalID: 987779037298898391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a936db1a6149da710800000000000000
+      internalID: 1706182658767020954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884efa06e089ddb80800000000000000
+      internalID: -8368365345065409400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 162
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21ff6f1ce864f3f0800000000000000
+      internalID: -867953464826662613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a39a1c611a4be0800000000000000
+      internalID: -1492361170519873069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 162
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00b5a8335a1bcaa0800000000000000
+      internalID: -6139784722254548977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 162
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52ecbe56fabced0800000000000000
+      internalID: -2392625924734573061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632886139162c56d0800000000000000
+      internalID: -3000481362090622410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 158
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43665178f24e08d0800000000000000
+      internalID: -2878289477022358707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91176acd37709480800000000000000
+      internalID: -8894478156784266851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b26e374c818c040800000000000000
+      internalID: 4668008245806639974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 158
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823cc02b343a52c70800000000000000
+      internalID: 8945735745986675496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 141
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8895071a48b40c0800000000000000
+      internalID: -4590429566264571660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 141
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8116adfbf8c22cf0800000000000000
+      internalID: -278439242325683830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 141
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d2f782679ad1b0800000000000000
+      internalID: -5631021934629956631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 141
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eb4d9e246156fb0800000000000000
+      internalID: -4655290163170853319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 161
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdaf0ad05668ed90800000000000000
+      internalID: -7068287117716115978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298e8028532a4c480800000000000000
+      internalID: -8879794214569187182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239c10a98bbe6300800000000000000
+      internalID: 247341229323096872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c5a6e0d21480360800000000000000
+      internalID: 7136025271339736153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 161
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03669b2ba68a7fd0800000000000000
+      internalID: -2343412586364116210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be24608963f001c0800000000000000
+      internalID: -4539360789938295115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf83532185f443ed0800000000000000
+      internalID: -2435234258819401476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821cf9292ee5e7910800000000000000
+      internalID: 1837010025229304104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26046cb553664fbc0800000000000000
+      internalID: -3750260210333761438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deeb5b6960459940800000000000000
+      internalID: 5302214957815557841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f0855079c0280f0800000000000000
+      internalID: -1116315914865209552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1d74eb040a6b8c0800000000000000
+      internalID: -3983820620431896103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe7ee3348812de0800000000000000
+      internalID: -1359655790089605263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de91f1447b9a4df80800000000000000
+      internalID: -8082648826636199443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 137
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f583c5e1c9f130800000000000000
+      internalID: 3601122569631429528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed1870f47dd882a0800000000000000
+      internalID: -6734889748412228126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670a269eef61cb90800000000000000
+      internalID: -7223369256813328531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 137
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6873cd903bd50500800000000000000
+      internalID: 361936346924939373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1df1bc2d9fbd880800000000000000
+      internalID: -8584993580905410090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ef3447142516a0800000000000000
+      internalID: -6479232806554704875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3240841871a79d0800000000000000
+      internalID: -2775880376294038581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca43b7dfeed9fc90800000000000000
+      internalID: -7135427012894438714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a52f3850f2c0fa0800000000000000
+      internalID: -5833235716616594909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad349a3f1be6760800000000000000
+      internalID: 7453090093419715317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 136
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8aaae37efd49a00800000000000000
+      internalID: 762480421214267633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 136
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c34b9f718d1390800000000000000
+      internalID: -7845972590743796738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 136
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1793ca37318df80800000000000000
+      internalID: -8081688143784742457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 136
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a07a358e41fec0800000000000000
+      internalID: -3534957898391051808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 136
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998285f79eba5fe0800000000000000
+      internalID: -1199436790872503911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 128
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8173afd093e740800000000000000
+      internalID: 5180143286600436984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e389ca1c3039b0800000000000000
+      internalID: -5102512292063091684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 128
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e58e423aa8a4700800000000000000
+      internalID: 525384739845594758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 128
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34482ffcbc3335470800000000000000
+      internalID: 8382100281926779971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 128
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad6c172c5cffde0800000000000000
+      internalID: -1297100728736228667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89db90915e9587e0800000000000000
+      internalID: -1763829605890008691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3268756d5fb5ed0800000000000000
+      internalID: -2424073673468664873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9f5dd73e1e91440800000000000000
+      internalID: 4907201636181866954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f116720831afa0800000000000000
+      internalID: -5791286062599767641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f756dbf12576b80a0800000000000000
+      internalID: -6878290403460815489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c81b0d6248d44f0800000000000000
+      internalID: -842872253003494356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5284b6665ebc670800000000000000
+      internalID: 8560187744797074874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc8c9b598c87640800000000000000
+      internalID: 5078029125252860707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 111
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2e7a904fd7a950800000000000000
+      internalID: 6460377659049127614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 111
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38b9cd1d7b369ef0800000000000000
+      internalID: -101828533012547521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 111
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0ebd7b1b352900800000000000000
+      internalID: 658997909739408561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 111
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff813fb1c4dfea0800000000000000
+      internalID: -5837425859075965118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 111
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf20bd69dcb5607e0800000000000000
+      internalID: -1799650062530575620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71282be0cca0eadd0800000000000000
+      internalID: -2473027273843637737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc271f8861739b50800000000000000
+      internalID: 6598742572919106802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921cbbad0e5940ca0800000000000000
+      internalID: -6051547206304153303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9088786a135fb20800000000000000
+      internalID: 3167492504233183664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595322ac5d2da5370800000000000000
+      internalID: 8312187877926778261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf98b16c5f8a3bd80800000000000000
+      internalID: -8236053519986357764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c422cad020d4880800000000000000
+      internalID: -8625235453598872559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 86
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae0085d71956220800000000000000
+      internalID: 2478547137470720616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 111
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bb32965fd59cc0800000000000000
+      internalID: -3704809555528795682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 111
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b993c0d02c8c70800000000000000
+      internalID: 8974584238449472527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 111
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8909e8365ae7f80800000000000000
+      internalID: -8106860432208127810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77893b0565b256590800000000000000
+      internalID: -7681685939689383817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c78381c9cdc7cd0800000000000000
+      internalID: -2558927925273920377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 103
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3e204eb227eefe0800000000000000
+      internalID: -1157862521353083954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 94
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4443e0e8d0453980800000000000000
+      internalID: -8559864216517655474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 94
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477c98702fab927b0800000000000000
+      internalID: -5248458342052280460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 86
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789348c5da7829530800000000000000
+      internalID: 3860297009261197703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 86
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ad1717f9af9290800000000000000
+      internalID: -7881393944165242853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 86
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c734d71206eaa790800000000000000
+      internalID: -7517943731277514809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 86
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035e85c94c8c0370800000000000000
+      internalID: 8290155262557180678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 86
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fa179cc8c580fd0800000000000000
+      internalID: -2375547043693088944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 86
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc77a552dd8e5a0800000000000000
+      internalID: -6491695710353241305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 86
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e79102a1bd26f10800000000000000
+      internalID: 2261610868147584623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 86
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2216ee6b626810800000000000000
+      internalID: 1757084928678440839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 69
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd894efb07da5410800000000000000
+      internalID: 1466721075173363193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72bbe5cf9f0e1ae0800000000000000
+      internalID: -1576805640638320002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae7e4091c5aeee40800000000000000
+      internalID: 5687665630183849641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 69
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e55b2cbf29dd3b70800000000000000
+      internalID: 8880492839288133094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 69
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e82d067a7c97f00800000000000000
+      internalID: 1115141904448785926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 69
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ed70d04f535fc0800000000000000
+      internalID: -3507354952811027084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 86
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bda1727185054e0800000000000000
+      internalID: -1994997778461566083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 86
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6008efe5c04f570800000000000000
+      internalID: 8499431998891230925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 86
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd52cbdd0cea2b600800000000000000
+      internalID: 482640253459113437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 86
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4d78dc886e7270800000000000000
+      internalID: 8250146521526128474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcec7cde08c5a7b0800000000000000
+      internalID: -5213541027457209093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad0c96a0a6a1ae50800000000000000
+      internalID: 6818914519735864737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20969f078f05d1f50800000000000000
+      internalID: 6853723235905267970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb80a4fcd1cf8260800000000000000
+      internalID: 7102108292127689691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d90c56108e2ed90800000000000000
+      internalID: -7069833372318524029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a3d11c81c7bedf0800000000000000
+      internalID: -149889716825802085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dd45126865a81f0800000000000000
+      internalID: -1041925229698032348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeecccb79fb15f70800000000000000
+      internalID: 9174324574358925036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f974cf7a483cc10800000000000000
+      internalID: 2072646110547517239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a757d322f5f5800800000000000000
+      internalID: 603305475755571752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf7c55ecd028dd0800000000000000
+      internalID: -2485408864501499120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b2b4000ed2ce220800000000000000
+      internalID: 2516436731894115131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be7eec5ce8eb0f80800000000000000
+      internalID: -8139155799672979785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d268301339a707d0800000000000000
+      internalID: -2952204993937513776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c9cdc59072f970800000000000000
+      internalID: 8787209611658249193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 35
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e5897f4bea52410800000000000000
+      internalID: 1451758547168157280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 35
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b024c15e9c0d7eb0800000000000000
+      internalID: -4720602960298237768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 35
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d698bd27ff81b00800000000000000
+      internalID: 799669802632834336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 10
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691d3859303041e40800000000000000
+      internalID: 5626125148420821398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 10
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f6d8dbf66c3550800000000000000
+      internalID: 6141897223687304149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Grassland Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 10
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8560332177e27ba30800000000000000
+      internalID: 4230901463879190104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

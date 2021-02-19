@@ -1,4 +1,11 @@
 Bandana Waddle Dee - gameboy09
 	https://www.spriters-resource.com/custom_edited/kirbycustoms/sheet/49583/
+
+Spring Breeze Backgrounds - Jermungandr
+	https://www.spriters-resource.com/ds_dsi/kssu/sheet/16242/
+
+Grassland Tileset - S3k Stage
+	https://www.spriters-resource.com/snes/kirbysuperstarkirbysfunpak/sheet/93260/
+
 playerControl script: jumping and a few movement design choices
 	https://medium.com/@zacharybuffone/2d-platformer-movement-in-unity-9112995412bf

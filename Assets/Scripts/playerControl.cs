@@ -13,18 +13,15 @@ public class playerControl : MonoBehaviour
     private bool is_on_ground;
     private int jumps;
 
-    // Start is called before the first frame update
     void Start()
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         float adjustedSpeed = speed / speedDivisor;
         float moveX = Input.GetAxis("Horizontal") * adjustedSpeed;
-        float moveY = Input.GetAxis("Vertical");
 
         if (is_on_ground)
         {
